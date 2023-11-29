@@ -1,0 +1,6 @@
+exam1 : 90.0 : 15.0 : 
+exam2 : 90.0 : 15.0 : 
+final exam : 90.0 : 20.0 : 
+lab quizes : 79.0 : 10.0 : 
+lab excercise : 100.0 : 40.0 : 
+Average: 92.90
